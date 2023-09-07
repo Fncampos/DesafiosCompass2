@@ -1,6 +1,6 @@
 # PROGRAMA DE ESTÁGIO COMPASS.UOL
 
-## Este respositório possui as soluções aos desafios propostos no Programa de Bolsas da Compass.UOL.
+## Esse repositório possui as soluções aos desafios propostos no Programa de Bolsas da Compass.UOL.
 
 ### Resumo do Conteúdo:
 
